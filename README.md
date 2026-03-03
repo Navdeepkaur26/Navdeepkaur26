@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Navdeep Kaur
 
-<!--
-**Navdeepkaur26/Navdeepkaur26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm passionate about learning, building, and exploring new technologies. This space showcases my projects, experiments, and continuous growth as a developer.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 I’m currently learning and expanding my skills in software development.
+- 💻 I enjoy working on real-world projects that solve meaningful problems.
+- 📚 Constantly exploring new tools, frameworks, and best practices.
+- 🤝 Open to collaborating on interesting and impactful projects.
+
+---
+
+
+## 📫 Connect With Me
+- **Email:** navdeepkaur554@gmail.com
+- **Discord:** [your-link-here ](https://discord.com/channels/@me)   
+
+---
+
+## ✨ Fun Fact
+I believe in learning by doing — and GitHub is where all the fun happens!
+
+---
+
+Thank you for visiting my profile! 🌟  
+Feel free to explore my repositories and reach out anytime.
