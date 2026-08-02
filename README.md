@@ -15,7 +15,8 @@ I'm passionate about learning, building, and exploring new technologies. This sp
 
 
 ## 📫 Connect With Me
-- **Email:** navdeepkaur554@gmail.com   
+- **Email:** navdeepkaur554@gmail.com
+- https://www.linkedin.com/in/navdeep-kaur-0857553b2/?skipRedirect=true
 
 ---
 
